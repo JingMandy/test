@@ -1,2 +1,3 @@
 # test
 test for learning new things
+用来学习GitHub创建的第一个项目，试着记录一些学习的小tips......
